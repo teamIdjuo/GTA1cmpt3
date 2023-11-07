@@ -16,9 +16,9 @@
     "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
 
   "admob_app_id": "",
-  "admob_banner": "",
-  "admob_interstitial": "",
-  "admob_rewarded_video": "",    
+  "admob_banner": "ca-app-pub-2033079489526847/1686142877",
+  "admob_interstitial": "ca-app-pub-2033079489526847/4679175719",
+  "admob_rewarded_video": "ca-app-pub-2033079489526847/9688508550",    
 
   "unity_app_id": "5434791",
   "unity_banner": "Banner_Android",
